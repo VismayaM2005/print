@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kWm5oN5OPEORVxMcas6LVA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSeytZFSCtL7SBWhefpFVGUoX4Ky_RHOWUBI9y3FcE4QKL3R5g/viewform" DesignTimeRectangle="483, 706, 476, 38" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl idx='3' tag='INPUT' type='text' /&gt;" Guid="507c6786-522f-4c79-9650-67adafc2d812" ScopeSelectorArgument="&lt;html app='chrome.exe' title='RPA' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="923f24eeebe32ab2c1a752fbdb2cbe2a.jpg" xmlns="">0vHYDsNnkA0uW5ROyRyC8vw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome RPA",
+  "Type": "Screen",
+  "Id": "oh_GVUvz1kuzPoRru44WAQ",
+  "Reference": "lW8cezZfmES-Ja12WhtBMA/oh_GVUvz1kuzPoRru44WAQ",
+  "ParentRef": "lW8cezZfmES-Ja12WhtBMA/3zW7rDfvuUyY48huHOnFlw",
+  "Created": "2026-09-03T16:07:35.7582067Z",
+  "Updated": "2026-09-03T16:07:35.7582067Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
